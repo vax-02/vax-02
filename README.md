@@ -1,54 +1,90 @@
-<!-- Perfil de GitHub de Javier -->
+<h1 align="center">Hola 👋, soy Javier</h1>
 
-<h1 align="center">¡Hola! 👋 Soy Javier</h1>
+<h3 align="center">
+Técnico Superior en Sistemas Informáticos <br>
+Estudiante de Ingeniería Informática
+</h3>
 
 <p align="center">
-  🎓 Estudiante de <strong>Ingeniería Informática</strong> <br>
-  💻 Titulado como <strong>Técnico Superior en Sistemas Informáticos</strong> <br>
-  🌐 Apasionado por el <strong>Desarrollo Web</strong>
+Apasionado por el desarrollo web, el aprendizaje continuo y la creación de aplicaciones modernas.
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## 👨‍💻 Sobre mí
 
-Soy un estudiante de Ingeniería Informática con una sólida base técnica como Técnico Superior en Sistemas Informáticos. Me apasiona el mundo del desarrollo web, donde disfruto creando soluciones modernas, eficientes y visualmente atractivas.
+💼 Técnico Superior en Sistemas Informáticos.
 
-Actualmente me encuentro perfeccionando mis habilidades en tecnologías frontend y backend, buscando siempre aprender más y aportar en proyectos desafiantes.
+🎓 Estudiante de Ingeniería Informática.
 
----
+🌐 Interesado en el desarrollo Frontend y Backend.
 
-## 🛠️ Tecnologías que manejo
+🚀 Actualmente mejorando mis conocimientos en Angular, Laravel y buenas prácticas de desarrollo.
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+📚 Siempre aprendiendo nuevas tecnologías.
 
 ---
 
-## 📈 GitHub Stats
+## 🛠 Tecnologías
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vax-02&show_icons=true&theme=radical" alt="GitHub Stats" />
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+</p>
+
+### Bases de Datos
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Herramientas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-## 📫 ¿Quieres contactarme?
+## 📊 GitHub Stats
 
-Puedes escribirme por:
+<p align="center">
 
-- ✉️ Email: [javier.xcn18@email.com](mailto:javier.xcn18@email.com)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vax-02&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vax-02&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Racha de contribuciones
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=vax-02&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 📫 Contacto
+
+📧 **Email**
+
+javier.xcn18@email.com
 
 ---
 
 <p align="center">
-  ¡Gracias por visitar mi perfil! 💻✨
+
+⭐ Gracias por visitar mi perfil.
+
+Siempre abierto a colaborar en nuevos proyectos.
+
 </p>
